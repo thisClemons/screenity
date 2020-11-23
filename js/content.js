@@ -26,6 +26,7 @@ $(document).ready(function(){
     var holdtalk = false;
     var persistent = false;
     var lastx = 0;
+    
     var lasty = 0;
     var lastscrollx = 0;
     var lastscrolly = 0;
